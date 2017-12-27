@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block body %}
+<header>
+<h1>{{ title }}</h1>
+</header>
+
+<div id="mainbody">
+<p>Fill out the following form to request an IP and Port pinhole to be created in the firewall for the set duration of time:</p>
+<form action="/" method="post">
+Developer's Name:<br>
+<input type="text" name="dev_name" size="15" value="{{ dev_name }}"><br>
+Developer's Workstation IP:<br>
+<input type="text" name="dev_host_ip" size="15" value="{{ dev_host_ip }}"><br>
+Developer's Application Port:<br>
+<input type="text" name="dev_port" maxlength="5" size="5" value="{{ dev_port }}"><br>
+Pinhole Lifetime (in seconds):<br>
+<input type="text" name="pinhole_lifetime" maxlength="4" size="5" value="{{ pinhole_lifetime }}"><br>
+<input type="hidden" name="dev_protocol" value="{{ dev_protocol }}">
+<input type="submit" value="Add Pinhole">
+</form>
+<h2>Note: Page will take about 20 seconds to load after clicking "Add Pinhole".</h2>
+</div>
+{% endblock %}

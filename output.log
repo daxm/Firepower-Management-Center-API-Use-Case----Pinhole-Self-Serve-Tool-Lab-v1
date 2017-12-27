@@ -1,0 +1,605 @@
+2017/06/03-17:08:53 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/03-17:09:01 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/03-17:09:02 - INFO:fmc.py:247 - 	Created host object: Dev-Ringo-1496531333.
+2017/06/03-17:09:02 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/03-17:09:03 - INFO:fmc.py:271 - 	Created port object: Dev-Ringo-1496531333.
+2017/06/03-17:09:08 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/03-17:09:12 - INFO:fmc.py:455 - 	ACP Rule Dev-Ringo-1496531333 created.
+2017/06/03-17:09:12 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/03-17:09:27 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/03-17:09:28 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/03-17:09:28 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/05-11:09:59 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/05-11:10:09 - INFO:fmc.py:204 - Deleting Dev-Inky-1496536234 rule from HQ.
+2017/06/05-11:10:10 - INFO:fmc.py:214 - Deleting Dev-Inky-1496536234 host object.
+2017/06/05-11:10:18 - INFO:fmc.py:224 - Deleting Dev-Inky-1496536234 port object.
+2017/06/05-11:10:21 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/05-11:10:23 - INFO:fmc.py:247 - 	Created host object: Dev-Paul-1496682599.
+2017/06/05-11:10:23 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/05-11:10:24 - INFO:fmc.py:271 - 	Created port object: Dev-Paul-1496682599.
+2017/06/05-11:10:30 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/05-11:10:37 - INFO:fmc.py:455 - 	ACP Rule Dev-Paul-1496682599 created.
+2017/06/05-11:10:37 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/05-11:10:52 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/05-11:10:55 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/05-11:10:55 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/05-11:11:47 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/05-11:11:56 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/05-11:12:00 - INFO:fmc.py:247 - 	Created host object: Dev-John-1496682707.
+2017/06/05-11:12:00 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/05-11:12:03 - INFO:fmc.py:271 - 	Created port object: Dev-John-1496682707.
+2017/06/05-11:12:08 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/05-11:12:14 - INFO:fmc.py:455 - 	ACP Rule Dev-John-1496682707 created.
+2017/06/05-11:12:14 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/05-11:12:29 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/05-11:12:30 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/05-14:44:38 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/05-14:44:46 - INFO:fmc.py:204 - Deleting Dev-Paul-1496682599 rule from HQ.
+2017/06/05-14:44:46 - INFO:fmc.py:204 - Deleting Dev-John-1496682707 rule from HQ.
+2017/06/05-14:44:47 - INFO:fmc.py:204 - Deleting Dev-Clyde-1496682771 rule from HQ.
+2017/06/05-14:44:51 - INFO:fmc.py:214 - Deleting Dev-Clyde-1496682771 host object.
+2017/06/05-14:44:54 - INFO:fmc.py:214 - Deleting Dev-John-1496682707 host object.
+2017/06/05-14:44:56 - INFO:fmc.py:214 - Deleting Dev-Paul-1496682599 host object.
+2017/06/05-14:44:59 - INFO:fmc.py:224 - Deleting Dev-Clyde-1496682771 port object.
+2017/06/05-14:45:02 - INFO:fmc.py:224 - Deleting Dev-John-1496682707 port object.
+2017/06/05-14:45:04 - INFO:fmc.py:224 - Deleting Dev-Paul-1496682599 port object.
+2017/06/05-14:45:07 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/05-14:45:08 - INFO:fmc.py:247 - 	Created host object: Dev-Fluffy-1496695478.
+2017/06/05-14:45:08 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/05-14:45:11 - INFO:fmc.py:271 - 	Created port object: Dev-Fluffy-1496695478.
+2017/06/05-14:45:16 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/05-14:45:21 - INFO:fmc.py:455 - 	ACP Rule Dev-Fluffy-1496695478 created.
+2017/06/05-14:45:21 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/05-14:45:36 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/05-14:45:37 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/05-14:45:37 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/05-14:45:56 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/05-14:46:05 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/05-14:46:06 - INFO:fmc.py:247 - 	Created host object: Dev-Fluffy-1496695556.
+2017/06/05-14:46:06 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/05-14:46:08 - INFO:fmc.py:271 - 	Created port object: Dev-Fluffy-1496695556.
+2017/06/05-14:46:13 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/05-14:46:18 - INFO:fmc.py:455 - 	ACP Rule Dev-Fluffy-1496695556 created.
+2017/06/05-14:46:18 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/05-14:46:33 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/05-14:46:34 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/05-15:20:19 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/05-15:20:28 - INFO:fmc.py:204 - Deleting Dev-Fluffy-1496695478 rule from HQ.
+2017/06/05-15:20:28 - INFO:fmc.py:204 - Deleting Dev-Fluffy-1496695556 rule from HQ.
+2017/06/05-15:20:31 - INFO:fmc.py:214 - Deleting Dev-Fluffy-1496695478 host object.
+2017/06/05-15:20:35 - INFO:fmc.py:214 - Deleting Dev-Fluffy-1496695556 host object.
+2017/06/05-15:20:38 - INFO:fmc.py:224 - Deleting Dev-Fluffy-1496695478 port object.
+2017/06/05-15:20:41 - INFO:fmc.py:224 - Deleting Dev-Fluffy-1496695556 port object.
+2017/06/05-15:20:44 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/05-15:20:45 - INFO:fmc.py:247 - 	Created host object: Dev-Fluffy-1496697619.
+2017/06/05-15:20:45 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/05-15:20:48 - INFO:fmc.py:271 - 	Created port object: Dev-Fluffy-1496697619.
+2017/06/05-15:20:53 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/05-15:20:57 - INFO:fmc.py:455 - 	ACP Rule Dev-Fluffy-1496697619 created.
+2017/06/05-15:20:57 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/05-15:21:12 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/05-15:21:13 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/05-15:21:13 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/12-14:19:48 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:19:57 - INFO:fmc.py:204 - Deleting Dev-Pinky-1497296462 rule from HQ.
+2017/06/12-14:19:58 - INFO:fmc.py:214 - Deleting Dev-Pinky-1497296462 host object.
+2017/06/12-14:20:02 - INFO:fmc.py:224 - Deleting Dev-Pinky-1497296462 port object.
+2017/06/12-14:20:06 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/12-14:20:08 - INFO:fmc.py:247 - 	Created host object: Dev-John-1497298788.
+2017/06/12-14:20:08 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/12-14:20:10 - INFO:fmc.py:271 - 	Created port object: Dev-John-1497298788.
+2017/06/12-14:20:15 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/12-14:20:21 - INFO:fmc.py:455 - 	ACP Rule Dev-John-1497298788 created.
+2017/06/12-14:20:21 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:20:36 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:20:37 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-14:20:37 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/12-14:28:41 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:28:51 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/12-14:28:52 - INFO:fmc.py:247 - 	Created host object: Dev-Ringo-1497299321.
+2017/06/12-14:28:52 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/12-14:28:55 - INFO:fmc.py:271 - 	Created port object: Dev-Ringo-1497299321.
+2017/06/12-14:29:00 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/12-14:29:06 - INFO:fmc.py:455 - 	ACP Rule Dev-Ringo-1497299321 created.
+2017/06/12-14:29:06 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:29:21 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:29:22 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-14:29:22 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/12-14:30:18 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:30:26 - INFO:fmc.py:204 - Deleting Dev-John-1497298788 rule from HQ.
+2017/06/12-14:30:27 - INFO:fmc.py:214 - Deleting Dev-John-1497298788 host object.
+2017/06/12-14:30:31 - INFO:fmc.py:224 - Deleting Dev-John-1497298788 port object.
+2017/06/12-14:30:35 - INFO:fmc.py:236 - Creating Host Object.
+2017/06/12-14:30:36 - INFO:fmc.py:247 - 	Created host object: Dev-Paul-1497299418.
+2017/06/12-14:30:36 - INFO:fmc.py:259 - Creating Protocol Port Object.
+2017/06/12-14:30:40 - INFO:fmc.py:271 - 	Created port object: Dev-Paul-1497299418.
+2017/06/12-14:30:45 - INFO:fmc.py:283 - Creating ACP Rules.
+2017/06/12-14:30:50 - INFO:fmc.py:455 - 	ACP Rule Dev-Paul-1497299418 created.
+2017/06/12-14:30:50 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:31:05 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:31:07 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/12-14:33:23 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:33:31 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:33:46 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:33:47 - INFO:fmc.py:169 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-14:33:47 - INFO:fmc.py:171 - Deploying changes to devices.
+2017/06/12-14:36:57 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:37:05 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:37:20 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:37:21 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/12-14:40:55 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:41:03 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:41:18 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:41:19 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/12-14:44:25 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:44:34 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:44:49 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:44:50 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/12-14:53:08 - INFO:api_objects.py:59 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:53:17 - INFO:fmc.py:132 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:53:32 - INFO:fmc.py:134 - Getting a list of deployable devices.
+2017/06/12-14:53:33 - INFO:fmc.py:158 - No devices need deployed.
+
+
+2017/06/12-14:57:15 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-14:57:26 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-14:57:27 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:27 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:28 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:28 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:28 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-14:57:29 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-14:57:30 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:30 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:30 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:30 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:32 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:32 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:32 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497299321" and id: "005056B8-54E9-0ed3-0000-000268437518" fetched from FMC.
+2017/06/12-14:57:32 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:33 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:37 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:37 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:37 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Ringo-1497299321" and id: "005056B8-54E9-0ed3-0000-000268437518" deleted in FMC.
+2017/06/12-14:57:37 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-14:57:38 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:38 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:39 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:39 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:40 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:40 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:40 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Paul-1497299418" and id: "005056B8-54E9-0ed3-0000-000268437519" fetched from FMC.
+2017/06/12-14:57:41 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:41 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:43 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-14:57:43 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-14:57:43 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Paul-1497299418" and id: "005056B8-54E9-0ed3-0000-000268437519" deleted in FMC.
+2017/06/12-14:57:43 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-14:57:45 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Paul-1497299418" and id: "005056B8-54E9-0ed3-0000-025769807729" fetched from FMC.
+2017/06/12-14:57:49 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Paul-1497299418" and id: "005056B8-54E9-0ed3-0000-025769807729" deleted in FMC.
+2017/06/12-14:57:49 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497299321" and id: "005056B8-54E9-0ed3-0000-025769807470" fetched from FMC.
+2017/06/12-14:57:54 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Ringo-1497299321" and id: "005056B8-54E9-0ed3-0000-025769807470" deleted in FMC.
+2017/06/12-14:57:54 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-14:57:54 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Paul-1497299418" and id: "005056B8-54E9-0ed3-0000-025769807747" fetched from FMC.
+2017/06/12-14:57:59 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Paul-1497299418" and id: "005056B8-54E9-0ed3-0000-025769807747" deleted in FMC.
+2017/06/12-14:57:59 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497299321" and id: "005056B8-54E9-0ed3-0000-025769807488" fetched from FMC.
+2017/06/12-14:58:05 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Ringo-1497299321" and id: "005056B8-54E9-0ed3-0000-025769807488" deleted in FMC.
+2017/06/12-14:58:08 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-John-1497301035" and id: "005056B8-54E9-0ed3-0000-025769808051" created in FMC.
+2017/06/12-14:58:08 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-14:58:23 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-14:58:24 - INFO:fmc.py:173 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-14:58:24 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/12-15:02:32 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:02:40 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:02:41 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:02:41 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:02:42 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:02:42 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:02:42 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:02:42 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:02:42 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:02:44 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497301352" and id: "005056B8-54E9-0ed3-0000-025769808191" created in FMC.
+2017/06/12-15:02:44 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:02:59 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:03:00 - INFO:fmc.py:162 - No devices need deployed.
+
+
+2017/06/12-15:23:08 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:23:17 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:23:18 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:23:18 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:23:18 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:23:18 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:23:18 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:23:19 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:23:20 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497301352" and id: "005056B8-54E9-0ed3-0000-025769808191" fetched from FMC.
+2017/06/12-15:23:22 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497301352" and id: "005056B8-54E9-0ed3-0000-025769808191" deleted in FMC.
+2017/06/12-15:23:23 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-John-1497301035" and id: "005056B8-54E9-0ed3-0000-025769808051" fetched from FMC.
+2017/06/12-15:23:27 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-John-1497301035" and id: "005056B8-54E9-0ed3-0000-025769808051" deleted in FMC.
+2017/06/12-15:23:27 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:23:30 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808244" created in FMC.
+2017/06/12-15:23:33 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808262" created in FMC.
+2017/06/12-15:23:39 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:23:40 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:23:40 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:23:41 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:23:41 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:23:42 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:23:42 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:23:44 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:23:44 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:23:44 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:23:45 - INFO:api_objects.py:1175 - Adding "Dev-John-1497302588" to destinationNetworks for this ACPRule.
+2017/06/12-15:23:45 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808262" fetched from FMC.
+2017/06/12-15:23:45 - INFO:api_objects.py:1086 - Adding "Dev-John-1497302588" to destinationPorts for this ACPRule.
+2017/06/12-15:23:48 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-000268437520" created in FMC.
+2017/06/12-15:23:48 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:24:03 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:24:05 - INFO:fmc.py:173 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-15:24:05 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/12-15:24:24 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:24:34 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:24:34 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:24:34 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:24:35 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:24:35 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:24:35 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:24:36 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:24:36 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:24:38 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808447" created in FMC.
+2017/06/12-15:24:41 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808465" created in FMC.
+2017/06/12-15:24:46 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:24:47 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:24:47 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:24:48 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:24:48 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:24:49 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:24:49 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:24:50 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:24:50 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:24:50 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:24:51 - INFO:api_objects.py:1175 - Adding "Dev-Ringo-1497302664" to destinationNetworks for this ACPRule.
+2017/06/12-15:24:51 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808465" fetched from FMC.
+2017/06/12-15:24:51 - INFO:api_objects.py:1086 - Adding "Dev-Ringo-1497302664" to destinationPorts for this ACPRule.
+2017/06/12-15:24:54 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-000268437521" created in FMC.
+2017/06/12-15:24:54 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:25:09 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:25:10 - INFO:fmc.py:162 - No devices need deployed.
+
+
+2017/06/12-15:32:39 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:32:48 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:32:48 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:32:48 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:32:49 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:32:49 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:32:49 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:32:49 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:32:50 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:32:51 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808559" created in FMC.
+2017/06/12-15:32:53 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808577" created in FMC.
+2017/06/12-15:32:55 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:32:56 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:32:56 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:32:57 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:32:57 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:32:57 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:32:57 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:32:58 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:32:58 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:32:58 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:32:59 - INFO:api_objects.py:1175 - Adding "Dev-George-1497303159" to destinationNetworks for this ACPRule.
+2017/06/12-15:32:59 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808577" fetched from FMC.
+2017/06/12-15:32:59 - INFO:api_objects.py:1086 - Adding "Dev-George-1497303159" to destinationPorts for this ACPRule.
+2017/06/12-15:33:02 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-000268437522" created in FMC.
+2017/06/12-15:33:02 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:33:17 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:33:18 - INFO:fmc.py:173 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-15:33:18 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/12-15:33:56 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:34:04 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:34:05 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:34:05 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:34:05 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:34:05 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:34:05 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:34:07 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:34:07 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:34:07 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:34:08 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:34:08 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:34:09 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-000268437520" fetched from FMC.
+2017/06/12-15:34:09 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:34:09 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:34:10 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-000268437520" deleted in FMC.
+2017/06/12-15:34:10 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:34:10 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808244" fetched from FMC.
+2017/06/12-15:34:14 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808244" deleted in FMC.
+2017/06/12-15:34:14 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:34:14 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808262" fetched from FMC.
+2017/06/12-15:34:17 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-John-1497302588" and id: "005056B8-54E9-0ed3-0000-025769808262" deleted in FMC.
+2017/06/12-15:34:19 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808820" created in FMC.
+2017/06/12-15:34:22 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808838" created in FMC.
+2017/06/12-15:34:22 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:34:24 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:34:24 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:34:25 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:34:25 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:34:26 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:34:26 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:34:27 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:34:27 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:34:27 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:34:27 - INFO:api_objects.py:1175 - Adding "Dev-George-1497303236" to destinationNetworks for this ACPRule.
+2017/06/12-15:34:27 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808838" fetched from FMC.
+2017/06/12-15:34:27 - INFO:api_objects.py:1086 - Adding "Dev-George-1497303236" to destinationPorts for this ACPRule.
+2017/06/12-15:34:29 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-000268437523" created in FMC.
+2017/06/12-15:34:29 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:34:44 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:34:45 - INFO:fmc.py:162 - No devices need deployed.
+
+
+2017/06/12-15:35:53 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:36:01 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:36:02 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:36:02 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:36:02 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:36:02 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:36:02 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:36:03 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:36:04 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:36:04 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:36:04 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:36:04 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:36:05 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-000268437521" fetched from FMC.
+2017/06/12-15:36:05 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:36:05 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:36:06 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-000268437521" deleted in FMC.
+2017/06/12-15:36:06 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:36:07 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808447" fetched from FMC.
+2017/06/12-15:36:10 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808447" deleted in FMC.
+2017/06/12-15:36:10 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:36:11 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808465" fetched from FMC.
+2017/06/12-15:36:14 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-Ringo-1497302664" and id: "005056B8-54E9-0ed3-0000-025769808465" deleted in FMC.
+2017/06/12-15:36:15 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808974" created in FMC.
+2017/06/12-15:36:19 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808992" created in FMC.
+2017/06/12-15:36:19 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:36:21 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:36:21 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:36:21 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:36:21 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:36:22 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:36:22 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:36:23 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:36:23 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:36:23 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:36:23 - INFO:api_objects.py:1175 - Adding "Dev-George-1497303353" to destinationNetworks for this ACPRule.
+2017/06/12-15:36:24 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808992" fetched from FMC.
+2017/06/12-15:36:24 - INFO:api_objects.py:1086 - Adding "Dev-George-1497303353" to destinationPorts for this ACPRule.
+2017/06/12-15:36:26 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-000268437524" created in FMC.
+2017/06/12-15:36:26 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:36:41 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:36:42 - INFO:fmc.py:173 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-15:36:42 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/12-15:39:11 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:39:19 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:39:20 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:39:20 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:39:21 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:39:21 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:39:21 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:39:21 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:39:21 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:39:23 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809191" created in FMC.
+2017/06/12-15:39:25 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809209" created in FMC.
+2017/06/12-15:39:27 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:39:28 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:39:28 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:39:29 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:39:29 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:39:30 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:39:30 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:39:30 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:39:30 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:39:30 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:39:31 - INFO:api_objects.py:1175 - Adding "Dev-George-1497303551" to destinationNetworks for this ACPRule.
+2017/06/12-15:39:31 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809209" fetched from FMC.
+2017/06/12-15:39:31 - INFO:api_objects.py:1086 - Adding "Dev-George-1497303551" to destinationPorts for this ACPRule.
+2017/06/12-15:39:33 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-000268437525" created in FMC.
+2017/06/12-15:39:33 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:39:48 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:39:50 - INFO:fmc.py:173 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-15:39:50 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/12-15:51:29 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/12-15:51:38 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:51:39 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:39 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:39 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:39 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:39 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:51:40 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:51:41 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:41 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:41 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:41 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:42 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-000268437522" fetched from FMC.
+2017/06/12-15:51:42 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:42 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:43 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-000268437522" deleted in FMC.
+2017/06/12-15:51:43 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:51:46 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:46 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:46 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:46 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:47 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-000268437523" fetched from FMC.
+2017/06/12-15:51:47 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:47 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:49 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-000268437523" deleted in FMC.
+2017/06/12-15:51:50 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:51:51 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:51 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:52 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:52 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:52 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-000268437524" fetched from FMC.
+2017/06/12-15:51:53 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:53 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:54 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-000268437524" deleted in FMC.
+2017/06/12-15:51:54 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:51:56 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:56 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:57 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:57 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:57 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-000268437525" fetched from FMC.
+2017/06/12-15:51:58 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:51:58 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:51:59 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-000268437525" deleted in FMC.
+2017/06/12-15:51:59 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:51:59 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808559" fetched from FMC.
+2017/06/12-15:52:02 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808559" deleted in FMC.
+2017/06/12-15:52:03 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808820" fetched from FMC.
+2017/06/12-15:52:06 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808820" deleted in FMC.
+2017/06/12-15:52:06 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808974" fetched from FMC.
+2017/06/12-15:52:10 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808974" deleted in FMC.
+2017/06/12-15:52:10 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809191" fetched from FMC.
+2017/06/12-15:52:14 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809191" deleted in FMC.
+2017/06/12-15:52:14 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:52:15 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808577" fetched from FMC.
+2017/06/12-15:52:18 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303159" and id: "005056B8-54E9-0ed3-0000-025769808577" deleted in FMC.
+2017/06/12-15:52:18 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808838" fetched from FMC.
+2017/06/12-15:52:22 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303236" and id: "005056B8-54E9-0ed3-0000-025769808838" deleted in FMC.
+2017/06/12-15:52:22 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808992" fetched from FMC.
+2017/06/12-15:52:25 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303353" and id: "005056B8-54E9-0ed3-0000-025769808992" deleted in FMC.
+2017/06/12-15:52:26 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809209" fetched from FMC.
+2017/06/12-15:52:29 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-George-1497303551" and id: "005056B8-54E9-0ed3-0000-025769809209" deleted in FMC.
+2017/06/12-15:52:30 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497304289" and id: "005056B8-54E9-0ed3-0000-025769809613" created in FMC.
+2017/06/12-15:52:33 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497304289" and id: "005056B8-54E9-0ed3-0000-025769809631" created in FMC.
+2017/06/12-15:52:34 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "005056B8-54E9-0ed3-0000-008589934949" fetched from FMC.
+2017/06/12-15:52:35 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/12-15:52:35 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/12-15:52:36 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/12-15:52:36 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/12-15:52:37 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "0779850e-4540-11e7-a55e-aafc15d0bafb" fetched from FMC.
+2017/06/12-15:52:37 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/12-15:52:38 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "f6eb0ce4-453f-11e7-ac47-c5fd1eb35fe6" fetched from FMC.
+2017/06/12-15:52:38 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/12-15:52:38 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/12-15:52:38 - INFO:api_objects.py:1175 - Adding "Dev-George-1497304289" to destinationNetworks for this ACPRule.
+2017/06/12-15:52:39 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497304289" and id: "005056B8-54E9-0ed3-0000-025769809631" fetched from FMC.
+2017/06/12-15:52:39 - INFO:api_objects.py:1086 - Adding "Dev-George-1497304289" to destinationPorts for this ACPRule.
+2017/06/12-15:52:41 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497304289" and id: "005056B8-54E9-0ed3-0000-000268437526" created in FMC.
+2017/06/12-15:52:41 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/12-15:52:56 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/12-15:52:57 - INFO:fmc.py:173 - Adding device bb35846c-4031-11e7-a16b-cb8478cdfefa to deployment queue.
+2017/06/12-15:52:57 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/14-10:05:58 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/14-10:06:13 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/14-10:06:16 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/14-10:06:16 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/14-10:06:16 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/14-10:06:16 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/14-10:06:16 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/14-10:06:19 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/14-10:06:20 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/14-10:06:25 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497456358" and id: "00505600-0300-0ed3-0000-012884902395" created in FMC.
+2017/06/14-10:06:28 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497456358" and id: "00505600-0300-0ed3-0000-012884902413" created in FMC.
+2017/06/14-10:06:28 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/14-10:06:30 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/14-10:06:30 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/14-10:06:31 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/14-10:06:31 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/14-10:06:33 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "2300ca44-5107-11e7-8b9b-af030d31eed5" fetched from FMC.
+2017/06/14-10:06:33 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/14-10:06:34 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "16bb7180-5107-11e7-ab98-86977f0b55fb" fetched from FMC.
+2017/06/14-10:06:34 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/14-10:06:34 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/14-10:06:35 - INFO:api_objects.py:1175 - Adding "Dev-George-1497456358" to destinationNetworks for this ACPRule.
+2017/06/14-10:06:36 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-George-1497456358" and id: "00505600-0300-0ed3-0000-012884902413" fetched from FMC.
+2017/06/14-10:06:36 - INFO:api_objects.py:1086 - Adding "Dev-George-1497456358" to destinationPorts for this ACPRule.
+2017/06/14-10:06:45 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-George-1497456358" and id: "00505600-0300-0ed3-0000-000268435456" created in FMC.
+2017/06/14-10:06:45 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/14-10:07:00 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/14-10:07:03 - INFO:fmc.py:173 - Adding device 310175e2-50fa-11e7-8827-f28975116564 to deployment queue.
+2017/06/14-10:07:03 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/20-09:26:17 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/20-09:26:22 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/20-09:26:23 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:26:23 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:26:23 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:26:23 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:26:23 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:26:24 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:26:24 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:26:26 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869669" created in FMC.
+2017/06/20-09:26:27 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869687" created in FMC.
+2017/06/20-09:26:27 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/20-09:26:28 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:26:28 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:26:29 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/20-09:26:29 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/20-09:26:29 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "2300ca44-5107-11e7-8b9b-af030d31eed5" fetched from FMC.
+2017/06/20-09:26:29 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/20-09:26:30 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "16bb7180-5107-11e7-ab98-86977f0b55fb" fetched from FMC.
+2017/06/20-09:26:30 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/20-09:26:30 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:26:30 - INFO:api_objects.py:1175 - Adding "Dev-daxm-1497972377" to destinationNetworks for this ACPRule.
+2017/06/20-09:26:30 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869687" fetched from FMC.
+2017/06/20-09:26:30 - INFO:api_objects.py:1086 - Adding "Dev-daxm-1497972377" to destinationPorts for this ACPRule.
+2017/06/20-09:26:31 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-000268436481" created in FMC.
+2017/06/20-09:26:31 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/20-09:26:46 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/20-09:26:47 - INFO:fmc.py:173 - Adding device 310175e2-50fa-11e7-8827-f28975116564 to deployment queue.
+2017/06/20-09:26:47 - INFO:fmc.py:175 - Deploying changes to devices.
+2017/06/20-09:54:55 - INFO:fmc.py:680 - Requesting new tokens from https://172.16.100.100/api/fmc_platform/v1/auth/generatetoken.
+2017/06/20-09:55:00 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/20-09:55:00 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:55:00 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:55:00 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:55:00 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:55:00 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:55:01 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/20-09:55:01 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:55:01 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:55:01 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:55:01 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:55:01 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-000268436481" fetched from FMC.
+2017/06/20-09:55:02 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:55:02 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:55:02 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-000268436481" deleted in FMC.
+2017/06/20-09:55:02 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:55:02 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869669" fetched from FMC.
+2017/06/20-09:55:04 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869669" deleted in FMC.
+2017/06/20-09:55:04 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:55:04 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869687" fetched from FMC.
+2017/06/20-09:55:06 - INFO:api_objects.py:152 - DELETE success. Object with name: "Dev-daxm-1497972377" and id: "00505600-0300-0ed3-0000-017179869687" deleted in FMC.
+2017/06/20-09:55:06 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-Ringo-1497974095" and id: "00505600-0300-0ed3-0000-017179869929" created in FMC.
+2017/06/20-09:55:07 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-Ringo-1497974095" and id: "00505600-0300-0ed3-0000-017179869947" created in FMC.
+2017/06/20-09:55:09 - INFO:api_objects.py:118 - GET success. Object with name: "HQ" and id: "00505600-0300-0ed3-0000-004294967582" fetched from FMC.
+2017/06/20-09:55:09 - INFO:api_objects.py:118 - GET success. Object with name: "Default-Set" and id: "76fa83ea-c972-11e2-8be8-8e45bb1343c0" fetched from FMC.
+2017/06/20-09:55:09 - INFO:api_objects.py:902 - VariableSet set to "Default-Set" for this ACPRule object.
+2017/06/20-09:55:09 - INFO:api_objects.py:118 - GET success. Object with name: "Security Over Connectivity" and id: "abba9b63-bb10-4729-b901-2e2aa0f4491c" fetched from FMC.
+2017/06/20-09:55:09 - INFO:api_objects.py:890 - Intrusion Policy set to "Security Over Connectivity" for this ACPRule object.
+2017/06/20-09:55:10 - INFO:api_objects.py:118 - GET success. Object with name: "OUT" and id: "2300ca44-5107-11e7-8b9b-af030d31eed5" fetched from FMC.
+2017/06/20-09:55:10 - INFO:api_objects.py:922 - Adding "OUT" to sourceZones for this ACPRule.
+2017/06/20-09:55:10 - INFO:api_objects.py:118 - GET success. Object with name: "IN" and id: "16bb7180-5107-11e7-ab98-86977f0b55fb" fetched from FMC.
+2017/06/20-09:55:10 - INFO:api_objects.py:963 - Adding "IN" to destinationZones for this ACPRule.
+2017/06/20-09:55:10 - INFO:api_objects.py:124 - GET query for object with no name or id set.  Returning full list of these object types instead.
+2017/06/20-09:55:10 - INFO:api_objects.py:1175 - Adding "Dev-Ringo-1497974095" to destinationNetworks for this ACPRule.
+2017/06/20-09:55:11 - INFO:api_objects.py:118 - GET success. Object with name: "Dev-Ringo-1497974095" and id: "00505600-0300-0ed3-0000-017179869947" fetched from FMC.
+2017/06/20-09:55:11 - INFO:api_objects.py:1086 - Adding "Dev-Ringo-1497974095" to destinationPorts for this ACPRule.
+2017/06/20-09:55:12 - INFO:api_objects.py:87 - POST success. Object with name: "Dev-Ringo-1497974095" and id: "00505600-0300-0ed3-0000-000268436482" created in FMC.
+2017/06/20-09:55:12 - INFO:fmc.py:136 - Waiting 15 seconds to allow the FMC to update the list of deployable devices.
+2017/06/20-09:55:27 - INFO:fmc.py:138 - Getting a list of deployable devices.
+2017/06/20-09:55:27 - INFO:fmc.py:173 - Adding device 310175e2-50fa-11e7-8827-f28975116564 to deployment queue.
+2017/06/20-09:55:27 - INFO:fmc.py:175 - Deploying changes to devices.
